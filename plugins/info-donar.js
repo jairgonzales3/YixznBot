@@ -11,10 +11,10 @@ let donar =`
 *┃ 👉🏻 𝙰𝚀𝚄𝙸 𝙰𝙻𝙶𝚄𝙽𝙾𝚂 𝙳𝙰𝚃𝙾𝚂*
 *┃ 𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝚂𝙴𝙶𝚄𝙸𝚁𝙼𝙴 :𝟹*
 *┃*
-┃ https://www.instagram.com/ffxryu.18/
+┃ https://www.instagram.com/gioozn_/
 *┗ ┅ ━━━━━━━━━ ┅ ━*
 `.trim()
-conn.sendHydrated(m.chat, donar, wm, null, 'https://www.instagram.com/ffxryu.18/', '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼', null, null, [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)}
+conn.sendHydrated(m.chat, donar, wm, null, 'https://www.instagram.com/gioozn_/', '𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼', null, null, [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)}
 handler.help = ['donasi']
 handler.tags = ['info']
 handler.command = /^dona(te|si)|donar|apoyar$/i
